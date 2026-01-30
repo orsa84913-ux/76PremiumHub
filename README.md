@@ -12,4 +12,4 @@ Roblox için geliştirilmiş, en gelişmiş özelliklere sahip premium arayüz.
 Aşağıdaki kodu kopyalayıp executor'ınıza yapıştırın:
 
 ```lua
-loadstring(game:HttpGet("SENIN_RAW_LINKIN_BURAYA"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/orsa84913-ux/76PremiumHub/refs/heads/main/main.lua"))()
